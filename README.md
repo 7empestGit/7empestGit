@@ -42,9 +42,9 @@ I'm a passionate **Unity Developer** with a proven track record in creating enga
 ---
 
 🎮 **Favorite Games**
-- **Half-Life Series**  <img src="assets/hl.svg" alt="Lambda" width="20"/>  
-- **Counter-Strike Series** <img src="assets/cs.svg" alt="CS" width="20"/>  
-- **Batman: Arkham Series** <img src="assets/arkham.svg" alt="Arkham" width="20"/>  
+- **Half-Life Series**  <img src="assets/hl.ico" alt="Lambda" width="20"/>  
+- **Counter-Strike Series** <img src="assets/cs.ico" alt="CS" width="20"/>  
+- **Batman: Arkham Series** <img src="assets/arkham.ico" alt="Arkham" width="20"/>  
 
 ---
 
@@ -53,6 +53,3 @@ I'm a passionate **Unity Developer** with a proven track record in creating enga
 - **GitHub:** [7empestGit](https://github.com/7empestGit)
 - **Email:** [ismayilmammadov10@gmail.com](mailto:ismayilmammadov10@gmail.com)
 
----
-
-💡 *"Coding games is like crafting dreams—pixel by pixel, line by line."*  
