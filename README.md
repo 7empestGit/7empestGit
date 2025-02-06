@@ -23,11 +23,14 @@ I'm a passionate **Unity Developer** with a proven track record in creating enga
 ---
 
 🕹️ **Experience**
+- **Unity3D Generalist at Manerai Inc.** | *December 2024 - Present*
+  - Currently working on VR game projects 🥽
+
 - **Freelance Unity Developer** | *April 2024 - Present*
   - Developed **10+ 2D hyper-casual games** for clients
   - Specialized in **rapid prototyping**
 
-- **Game Developer at Dynamic Box Studio** | *2022 - 2024*
+- **Game Developer at Dynamic Box Studio** | *February 2022 - December 2024*
   - Contributed to **5+ projects**
   - Integrated features like **IAP, Ads, Analytics, UI**, and **Network Management**
   - Built and deployed backend applications using **AWS**
