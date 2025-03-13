@@ -9,7 +9,7 @@
 ---
 
 🚀 **About Me**  
-I'm a passionate **Unity Developer** with a proven track record in creating engaging 2D and 3D (hyper)casual games and versatile game applications. I thrive in rapid prototyping, optimization, and delivering high-quality experiences across **Mobile (Android, iOS)** and **PC** platforms.
+I'm a passionate **Unity Developer** with a proven track record in creating engaging 2D and 3D (hyper)casual games and versatile game applications. I thrive in rapid prototyping, optimization, and delivering high-quality experiences across **Mobile (Android, iOS)** 📱 and **PC** 🖥️ platforms.
 
 ---
 
