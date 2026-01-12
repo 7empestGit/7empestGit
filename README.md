@@ -24,7 +24,13 @@ I'm a passionate **Unity Developer** with a proven track record in creating enga
 
 🕹️ **Experience**
 - **Unity3D Generalist at Manerai Inc.** | *December 2024 - Present*
-  - Currently working on VR game projects 🥽
+  
+  [TAXI DRIVER VR (Meta Store)](https://www.meta.com/experiences/taxi-driver-vr/24962418896791239/):
+   -  Implemented core gameplay mechanics and systems
+   -  Built and polished VR interactions and player controls
+   -  Performed performance optimizations for stable VR framerate
+   -  Worked on in-game world behaviors and player feedback loops
+   -  Supported the project from early development through release
 
 - **Freelance Unity Developer** | *April 2024 - Present*
   - Developed **10+ 2D hyper-casual games** for clients
@@ -38,8 +44,8 @@ I'm a passionate **Unity Developer** with a proven track record in creating enga
 ---
 
 📜 **Education & Certifications**
-- **Master's in System Programming** *(2024-2026)*
-- **Bachelor's in Computer Engineering** *(GPA: 87/100)*
+- **Master's in System Programming**
+- **Bachelor's in Computer Engineering**
 - Certifications:
   - [CS50 Game Development (CS50G) - Harvard](https://certificates.cs50.io/ad731471-ef15-4e6d-b4cd-324920a86c2b.pdf)
   - [CS50 Computer Science (CS50x) - Harvard](https://certificates.cs50.io/1f297e82-ac6c-4dfc-aed4-b3d345193076.pdf)
