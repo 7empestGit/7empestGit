@@ -2,7 +2,7 @@
 ### 🎮 Unity Developer | 💻 Game & Software Engineer
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=7empestGit&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=7empestGit&theme=dark&hide_border=false&mode=weekly" alt="GitHub Streak" />
 </a>
 
 
