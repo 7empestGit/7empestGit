@@ -25,7 +25,7 @@ I'm a passionate **Unity Developer** with a proven track record in creating enga
 🕹️ **Experience**
 - **Unity3D Generalist at Manerai Inc.** | *December 2024 - Present*
   
-  [TAXI DRIVER VR (Meta Store)](https://www.meta.com/experiences/taxi-driver-vr/24962418896791239/):
+  [TAXI DRIVER VR (Meta Store) <img src="assets/taxi_driver_vr.ico" alt="Lambda" width="20"/>](https://www.meta.com/experiences/taxi-driver-vr/24962418896791239/) :
    -  Implemented core gameplay mechanics and systems
    -  Built and polished VR interactions and player controls
    -  Performed performance optimizations for stable VR framerate
